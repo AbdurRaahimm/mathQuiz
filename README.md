@@ -1,34 +1,50 @@
-# React Vite Tailwind Project
-This is a template for a React project with Vite and Tailwind CSS.
+# Simple Math Quiz Game
+This is a simple math quiz game. You can play this game to improve your math skills. This game is made with React and Tailwind CSS. This game is made for fun and learning purpose. You can play this game on your mobile phone or desktop. This game is fully responsive. 
 
-## Usage
-1. Clone this repository
+
+## Live Demo
+[Click here](https://simple-math-quiz-game.netlify.app/) to play this game.
+
+
+
+## Installation
+Clone this repository using this command.
 ```bash
-git clone https://github.com/AbdurRaahimm/react-vite-tailwind-starter.git
+git clone
 ```
-2. Run The Essential Dependency
+After cloning this repository run this command to install all dependencies.
 ```bash
 npm install
 ```
-3. Run `npm run dev` to start the development server
+After installing all dependencies run this command to start the development server.
 ```bash
 npm run dev
 ```
-4. Run `npm run build` to build the project
-```bash
-npm run build
-```
-5. Run `npm run serve` to serve the build
-```bash
-npm run serve
-```
+After running this command your development server will start on port 5173. Open your browser and go to http://localhost:5173 to play this game.
+
+
+## Screenshots
+![landing](public/Screenshots/image.png)
+![add](public/Screenshots/image1.png)
+![sub](public/Screenshots/image2.png)
+![mul](public/Screenshots/image3.png)
+![div](public/Screenshots/image4.png)  
 
 ## Features
+- Addition Quiz
+- Subtraction Quiz
+- Multiplication Quiz
+- Division Quiz
+- Fully Responsive
+- add timing and scoring system
+- add sound effect if press wrong answer  
+
+
+## Tools
 - React
 - Vite
 - Tailwind CSS
-- ESLint
-- Prettier
+- React Router
 
 
 ## Connect on Social Media
