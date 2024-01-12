@@ -3,18 +3,21 @@ This is a simple math quiz game. You can play this game to improve your math ski
 
 
 ## Live Demo
-[Click here](https://simple-math-quiz-game.netlify.app/) to play this game.
-
+[Click here](https://math-quiz-seven.vercel.app) to play this game.
 
 
 ## Installation
 Clone this repository using this command.
 ```bash
-git clone
+git clone https://github.com/AbdurRaahimm/mathQuiz.git
 ```
 After cloning this repository run this command to install all dependencies.
 ```bash
 npm install
+```
+or 
+```bash
+npm i
 ```
 After installing all dependencies run this command to start the development server.
 ```bash
